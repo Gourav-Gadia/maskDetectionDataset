@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>mask.86b5e752-e9f4-11eb-92e0-3c91804d876a.jpg</filename>
+	<path>D:\GOURAV\CODING\Python\Deep-Learning\LearnObjectDetection\Images\mask.86b5e752-e9f4-11eb-92e0-3c91804d876a.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NoMask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>355</xmin>
+			<ymin>193</ymin>
+			<xmax>475</xmax>
+			<ymax>291</ymax>
+		</bndbox>
+	</object>
+</annotation>
